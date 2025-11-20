@@ -1,7 +1,7 @@
 # Coding-Color
 
 ##Jiale Wang
-##Tpsit
+##TPSIT
 ##4BINF
 <a href="https://github.com/jwang2706"></a>
 
