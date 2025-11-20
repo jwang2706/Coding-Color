@@ -1,5 +1,7 @@
+# Coding-Color
+
 ##Jiale Wang
 ##Tpsit
-<a>https://github.com/jwang2706<a>
+##4BINF
+<a href="https://github.com/jwang2706"></a>
 
-# Coding-Color
