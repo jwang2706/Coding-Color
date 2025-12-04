@@ -1,7 +1,9 @@
 console.log("Inizio esecuzione");
 let = new Date();
+console.log(d);
+document.getElementById("saluto").innerHTML = d.getDay;
  function(){
-let numero = document.getElementById("InNumber").value;
+    let numero = document.getElementById("InNumber").value;
     alert(numero);
  }
 if (numero >= 0 && numero <= 255){
@@ -13,6 +15,7 @@ else {
 function reset(){
  document.getElementById("inNumber").value = "";
 }
+
 
 
 
