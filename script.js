@@ -1,4 +1,5 @@
 console.log("Inizio esecuzione");
+let = new Date();
  function(){
 let numero = document.getElementById("InNumber").value;
     alert(numero);
@@ -12,5 +13,6 @@ else {
 function reset(){
  document.getElementById("inNumber").value = "";
 }
+
 
 
